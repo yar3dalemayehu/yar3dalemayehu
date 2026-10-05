@@ -1,0 +1,53 @@
+# ሰላም, I'm Yared
+
+Electrical and Computer Engineering student at **Addis Ababa University**. I build web apps, data tools and Telegram things, ship them, and write down what actually happened, including the debugging hours.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-yar3dalemayehu.github.io-17243A?style=for-the-badge)](https://yar3dalemayehu.github.io)
+[![Telegram](https://img.shields.io/badge/Telegram-JJ%20Builds-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/jj_builds)
+[![Instagram](https://img.shields.io/badge/Instagram-yar3dalemayehu-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yar3dalemayehu)
+
+## What I've built
+
+| Project | What it does | Stack | Status |
+| --- | --- | --- | --- |
+| **[Runout](https://taste-matchup.vercel.app)** | Matches people by music taste from their Spotify data. Score is 60% artist overlap (Jaccard) plus 40% genre similarity (cosine). | Next.js, TypeScript, NextAuth, Supabase | Live ([code](https://github.com/yar3dalemayehu/taste-matchup)) |
+| **JJ Builds** | Telegram channel analytics with Dashboard, Compare, Leaderboard, Strategy and Social Media tabs, plus a Telegram Mini App. | Next.js, FastAPI, Pyrogram | Live |
+| **[AAU UAT Simulator](https://free-aau-uat-simulator.vercel.app)** | Free timed mock of the Addis Ababa University admission test: Verbal (55 questions) and Quantitative (45), with flagging and a score report. | Web app on Vercel | Live |
+| **GPA Calculator** | GPA calculator for students. Next up: a department course database with dropdown course selection. | Vue 3, TypeScript, Vite | In progress |
+| **Amharic Charades** | A charades word generator like randomwordgenerator.com's, powered by Amharic words. | Planned for Vercel | Next up |
+
+## Toolbox
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue_3-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
+
+## What I'm doing right now
+
+- Working through a 12-week full-stack plan: HTML/CSS, JavaScript, React, Node/Express, SQLite, then deploying on Vercel and Render.
+- Growing the GPA Calculator with a department course database.
+- Deciding whether Runout gets Letterboxd next, after testing it with a small group.
+- Building the Amharic charades generator.
+
+## Freelance
+
+I'm on Upwork for software development, Python, data entry, content writing and AI-tool workflows.
+<!-- Add your Upwork profile link here, for example: [Hire me on Upwork](https://www.upwork.com/freelancers/your-profile) -->
+
+## GitHub stats
+
+<p>
+  <img height="160" alt="Yared's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=yar3dalemayehu&show_icons=true&hide_border=true&count_private=true" />
+  <img height="160" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yar3dalemayehu&layout=compact&hide_border=true" />
+</p>
+
+I post the honest progress log on [Telegram](https://t.me/jj_builds).
