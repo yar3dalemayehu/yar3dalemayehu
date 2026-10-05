@@ -2,12 +2,13 @@
 
 <p align="center">
   <a href="https://github.com/yar3dalemayehu"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20Programmer;Electrical%20and%20Computer%20Engineering%20Student;Coding%20Since%202025;Always%20Looking%20For%20Interesting%20Projects&center=true&width=480&height=45"></a>
-</p>
+
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-17243A?style=for-the-badge)](https://yar3dalemayehu.github.io)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/jj_builds)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yar3dalemayehu)
 
+</p>
 ## What I've built
 
 | Project | What it does | Stack | Status |
