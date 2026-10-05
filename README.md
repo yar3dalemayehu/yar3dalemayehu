@@ -13,8 +13,8 @@ Electrical and Computer Engineering student at **Addis Ababa University**. I bui
 | **[Runout](https://taste-matchup.vercel.app)** | Matches people by music taste from their Spotify data. Score is 60% artist overlap (Jaccard) plus 40% genre similarity (cosine). | Next.js, TypeScript, NextAuth, Supabase | Live | 
 | **[AAU UAT Simulator](https://free-aau-uat-simulator.vercel.app)** | Free timed mock of the Addis Ababa University admission test: Verbal (55 questions) and Quantitative (45), with flagging and a score report. | Web app on Vercel | Live |
 | **[GPA Calculator](https://jj-gpa-calculator.vercel.app/)** | GPA calculator for students. Next up: a department course database with dropdown course selection. | Vue 3, TypeScript, Vite | Live |
-| **[Amharic Charades](https://amharic-charades.vercel.app/)** | A charades word generator like randomwordgenerator.com's, powered by Amharic words. | Web app on Vercel | LIVE |
-| **[Cutline](https://cutline-bg.vercel.app/)** | An image background remover with no size limits that runs entirely on your device. | Web app on vercel | LIVE |
+| **[Amharic Charades](https://amharic-charades.vercel.app/)** | A charades word generator like randomwordgenerator.com's, powered by Amharic words. | Web app on Vercel | Live |
+| **[Cutline](https://cutline-bg.vercel.app/)** | An image background remover with no size limits that runs entirely on your device. | Web app on vercel | Live |
 
 ## Toolbox
 
