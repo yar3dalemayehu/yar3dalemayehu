@@ -1,12 +1,12 @@
-# ሰላም, I'm Yared
+# Hi, I'm Yared
 
 <p align="center">
   <a href="https://github.com/yar3dalemayehu"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20Programmer;Electrical%20and%20Computer%20Engineering%20Student;Coding%20Since%202025;Always%20Looking%20For%20Interesting%20Projects&center=true&width=480&height=45"></a>
 </p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-yar3dalemayehu.github.io-17243A?style=for-the-badge)](https://yar3dalemayehu.github.io)
-[![Telegram](https://img.shields.io/badge/Telegram-JJ%20Builds-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/jj_builds)
-[![Instagram](https://img.shields.io/badge/Instagram-yar3dalemayehu-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yar3dalemayehu)
+[![Portfolio](https://img.shields.io/badge/Portfolio-yar3dalemayehu.github.io-17243A?style=for-the-badge)(https://yar3dalemayehu.github.io)]
+[![Telegram](https://img.shields.io/badge/Telegram-JJ%20Builds-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)(https://t.me/jj_builds)]
+[![Instagram](https://img.shields.io/badge/Instagram-yar3dalemayehu-E4405F?style=for-the-badge&logo=instagram&logoColor=white)(https://instagram.com/yar3dalemayehu)]
 
 ## What I've built
 
