@@ -31,12 +31,6 @@ Electrical and Computer Engineering student at **Addis Ababa University**. I bui
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
 
-## What I'm doing right now
-
-- Working through a 12-week full-stack plan: HTML/CSS, JavaScript, React, Node/Express, SQLite, then deploying on Vercel and Render.
-- Growing the GPA Calculator with a department course database.
-- Deciding whether Runout gets Letterboxd next, after testing it with a small group.
-- Building the Amharic charades generator.
 
 ## Freelance
 
