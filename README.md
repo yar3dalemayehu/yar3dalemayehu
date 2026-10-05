@@ -1,6 +1,8 @@
 # ሰላም, I'm Yared
 
-Electrical and Computer Engineering student at **Addis Ababa University**. I build web apps, data tools and Telegram things, ship them, and write down what actually happened, including the debugging hours.
+<p align="center">
+  <a href="https://github.com/yar3dalemayehu"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20Programmer;Electrical%20and%20Computer%20Engineering%20Student;Coding%20Since%202025;Always%20Looking%20For%20Interesting%20Projects&center=true&width=480&height=45"></a>
+</p>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-yar3dalemayehu.github.io-17243A?style=for-the-badge)](https://yar3dalemayehu.github.io)
 [![Telegram](https://img.shields.io/badge/Telegram-JJ%20Builds-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/jj_builds)
@@ -40,8 +42,7 @@ I'm on Upwork for software development, Python, data entry, content writing and 
 ## GitHub stats
 
 <p>
-  <img height="160" alt="Yared's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=yar3dalemayehu&show_icons=true&hide_border=true&count_private=true" />
-  <img height="160" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yar3dalemayehu&layout=compact&hide_border=true" />
+    <img height="160" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yar3dalemayehu&layout=compact&hide_border=true&bg_color=00000000&title_color=2f80ed&text_color=8b949e" />
 </p>
 
 I post the honest progress log on [Telegram](https://t.me/jj_builds).
