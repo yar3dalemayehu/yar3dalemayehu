@@ -47,4 +47,4 @@ I'm on Upwork for software development, Python, data entry, content writing and 
     <img height="160" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yar3dalemayehu&layout=compact&hide_border=true&bg_color=00000000&title_color=2f80ed&text_color=8b949e" />
 </p>
 
-I post the honest progress log on [Telegram](https://t.me/jj_builds).
+
